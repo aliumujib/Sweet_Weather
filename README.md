@@ -3,11 +3,11 @@ Weather app I built whie learning to use swift 3 JSON data handling ... learnt a
 
 ## Awesome notes, a note taking taking app built for travellers  
 
-<img src="Screens/screen1.JPEG" width="250" />
-<img src="Screens/screen2.JPEG" width="250" />
-<img src="Screens/screen3.JPEG" width="250" />
-<img src="Screens/screen4.JPEG" width="250" />
-<img src="Screens/screen5.JPEG" width="250" />
+<img src="Screens/screen1.jpeg" width="250" />
+<img src="Screens/screen2.jpeg" width="250" />
+<img src="Screens/screen3.jpeg" width="250" />
+<img src="Screens/screen4.jpeg" width="250" />
+<img src="Screens/screen5.jpeg" width="250" />
 
 ## Technology Stack
 
