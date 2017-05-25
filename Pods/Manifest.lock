@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.4.0)
+  - ComplimentaryGradientView (0.1.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - ComplimentaryGradientView
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  ComplimentaryGradientView: f5be18cebdacb7a459ba3e2386d0ffad60573d69
+
+PODFILE CHECKSUM: 6fba97a97f9bc9dedf8e3963c4dfe900ddd43336
+
+COCOAPODS: 1.2.0
